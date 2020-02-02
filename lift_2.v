@@ -10,7 +10,7 @@ parameter FLOOR = 3; //Placeholder for next assignment
 
 reg [2:0]state,out;
 reg [3:0]out_count;
-
+//Test comment
 /*
 1: assign my_clk = clk and clk_en;//assign is always outside procedural blocks (initial/always)
 2: always@(*)
